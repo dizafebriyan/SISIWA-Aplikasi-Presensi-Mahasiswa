@@ -1,7 +1,5 @@
 # SISIWA-Aplikasi-Presensi-Mahasiswa
 
-# SISIWA-Aplikasi-Presensi-Mahasiswa
-
 seperti yang kita tahu, sistem pendidikan di indonesia masih
 menggunakan daftar hadir atau presensi untuk menilai keaktifan siswa
 dalam mengikuti pembelajaran. hampir semua presensi atau daftar hadir
